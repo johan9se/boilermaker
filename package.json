@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@tensorflow-models/posenet": "^2.2.2",
+    "@tensorflow/tfjs-core": "^4.2.0",
+    "await-to-js": "^3.0.0",
+    "prop-types": "^15.8.1",
+    "three": "^0.148.0"
+  }
+}
